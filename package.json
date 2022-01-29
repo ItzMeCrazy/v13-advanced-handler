@@ -1,0 +1,56 @@
+{
+
+  "name": "djs-v.13-handler",
+
+  "version": "1.0.0",
+
+  "description": "<a href=\"https://discord.js.org\"><img src=\"https://discord.js.org/static/logo.svg\" width=\"546\" alt=\"discord.js\" /></a>",
+
+  "main": "index.js",
+
+  "scripts": {
+
+    "start": "node index.js"
+
+  },
+
+  "keywords": [],
+
+  "author": "",
+
+  "license": "ISC",
+
+  "dependencies": {
+
+    "discord.js": "^13.0.0",
+
+    "glob": "^7.1.7",
+
+    "mongoose": "^5.13.2"
+
+  },
+
+  "devDependencies": {
+
+    "node": "^16.13.0"
+
+  },
+
+  "repository": {
+
+    "type": "git",
+
+    "url": "git+https://github.com/DevelopersZoneOfficial/Discord-v13-Advanced-Handler-DevelopersZone.git"
+
+  },
+
+  "bugs": {
+
+    "url": "https://github.com/DevelopersZoneOfficial/Discord-v13-Advanced-Handler-DevelopersZone/issues"
+
+  },
+
+  "homepage": "https://github.com/DevelopersZoneOfficial/Discord-v13-Advanced-Handler-DevelopersZone#readme"
+
+}
+
