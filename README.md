@@ -31,4 +31,4 @@ node index.js
 ```
 - Start The Project
 
-## Join [Discord](https://discord.gg/EAxtVkY2mW) For Help
+## Join [Discord](https://discord.gg/devshub) For Help
